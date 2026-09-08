@@ -12,6 +12,18 @@
 
 <br>
 
+## 👀 Watching...
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/eyes.gif" width="260" />
+
+<sub>👆 real blinking gif — self-hosted (instructions at the bottom, GIF is the only element that can actually animate/blink)</sub>
+
+</div>
+
+<br>
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -36,6 +48,11 @@
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ](https://www.instagram.com/sudhanshuy4dav)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:youremail@gmail.com)
 
 </div>
 
@@ -43,9 +60,11 @@
 
 ## 👋 About Me
 
-I'm Sudhanshu Kumar, an AI student currently pursuing my B.Tech in Artificial Intelligence at Zenith School of AI, KR Mangalam University. My journey into AI started with a genuine curiosity about how intelligent systems are built from the ground up — from raw data, to models, to full working products. That curiosity has since grown into a long-term mission: building an **AI-first Operating System**, a computing platform designed around AI as a first-class citizen rather than an add-on feature.
+I'm Sudhanshu Kumar, an AI student currently pursuing my B.Tech in Artificial Intelligence at Zenith School of AI, KR Mangalam University. My interest in AI didn't start as a career decision — it started as genuine curiosity about how intelligent systems actually work under the hood: how raw data becomes a trained model, and how a trained model becomes a real, usable product. That curiosity has since evolved into a long-term mission that now shapes most of what I study and build: creating an **AI-first Operating System**, a computing platform where AI sits at the core of the system rather than being layered on top as an afterthought.
 
-Right now, I'm in the foundation-building phase — strengthening my command over Python, Data Structures & Algorithms, SQL, and Git/GitHub, while simultaneously going deep into Machine Learning, Deep Learning, Generative AI, Prompt Engineering, and Computer Vision. I believe strong fundamentals compound over time, so I'm deliberate about not skipping the basics even while exploring advanced topics.
+Right now I'm deep in the foundation-building phase of that journey. I'm steadily strengthening my command over Python, Data Structures & Algorithms, SQL, and Git/GitHub — the tools every serious engineer needs regardless of specialization — while simultaneously going deeper into Machine Learning, Deep Learning, Generative AI, Prompt Engineering, and Computer Vision. I've learned that skipping fundamentals to chase "exciting" topics tends to backfire later, so I try to stay disciplined about building real understanding rather than surface-level familiarity.
+
+Outside of pure technical learning, I'm also actively trying to become part of the wider developer ecosystem — following communities, engaging with open source, and staying alert for hackathons and collaborative projects where I can apply what I'm learning in a real-world, high-pressure setting. I believe the fastest way to actually learn something is to try building it, break it, and fix it — not just read about it.
 
 <div align="center">
 
