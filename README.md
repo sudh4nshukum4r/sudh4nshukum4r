@@ -43,13 +43,44 @@
 
 ## 👋 About Me
 
+I'm Sudhanshu Kumar, an AI student currently pursuing my B.Tech in Artificial Intelligence at Zenith School of AI, KR Mangalam University. My journey into AI started with a genuine curiosity about how intelligent systems are built from the ground up — from raw data, to models, to full working products. That curiosity has since grown into a long-term mission: building an **AI-first Operating System**, a computing platform designed around AI as a first-class citizen rather than an add-on feature.
+
+Right now, I'm in the foundation-building phase — strengthening my command over Python, Data Structures & Algorithms, SQL, and Git/GitHub, while simultaneously going deep into Machine Learning, Deep Learning, Generative AI, Prompt Engineering, and Computer Vision. I believe strong fundamentals compound over time, so I'm deliberate about not skipping the basics even while exploring advanced topics.
+
+<div align="center">
+
 ```yaml
-Name        : Sudhanshu Kumar
-Role        : AI Student / Future AI Engineer
-Location    : Sohna, Gurgaon, India
-Education   : B.Tech in Artificial Intelligence — Zenith School of AI, KR Mangalam University
-Mission     : Building an AI-first Operating System / AI Computing Platform (long-term project)
-Learning    : Python | DSA | SQL | Git/GitHub | Machine Learning | Deep Learning
-              Generative AI | Prompt Engineering | Computer Vision | Robotics Fundamentals
-Open To     : Internships, AI Projects, Hackathons, Open Source, Research Collaborations
-Currently   : Sharpening foundations before scaling into full AI systems work
+# ──────────────────────────────
+#   PROFILE : SUDHANSHU KUMAR
+# ──────────────────────────────
+Name        : "Sudhanshu Kumar"
+Role        : "AI Student → Future AI Engineer"
+Location    : "Sohna, Gurgaon, India"
+Education   : "B.Tech in Artificial Intelligence"
+Institute   : "Zenith School of AI, KR Mangalam University"
+
+Mission     : >
+  Building an AI-first Operating System / AI Computing
+  Platform — a long-term (4-6 year) vision.
+
+Learning:
+  - Python
+  - Data Structures & Algorithms
+  - SQL
+  - Git & GitHub
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Prompt Engineering
+  - Computer Vision
+  - Robotics Fundamentals
+
+OpenTo:
+  - Internships
+  - AI / ML Projects
+  - Hackathons
+  - Open Source Contributions
+  - Research Collaborations
+  - Developer Communities & Networking
+
+Status      : "actively learning, building, and shipping 🚀"
