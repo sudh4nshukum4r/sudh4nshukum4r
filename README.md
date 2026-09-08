@@ -1,105 +1,69 @@
-<div align="center">
+<h1 align="center">Hi there 👋, I'm Sudhanshu Kumar</h1>
+<h3 align="center">AI Student | Building an AI-first Operating System 🚀</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Hi%20There,%20I'm%20Sudhanshu%20Kumar&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  🎓 B.Tech in AI @ Zenith School of AI (KR Mangalam University) &nbsp;|&nbsp; 📍 Gurgaon, India
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Sudhanshu+Kumar+-+AI+Student;Building+an+AI-first+Operating+System+%F0%9F%9A%80;Learning+ML+%7C+DL+%7C+GenAI+%7C+CV;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudhanshu-kumar-960319409" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sudh4nshukum4r" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sudh4shuYadav" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sudhanshuy4dav" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-📍 Sohna, Gurgaon, India &nbsp;•&nbsp; 🎓 B.Tech in AI, Zenith School of AI (KR Mangalam University)
+---
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
+### 🚀 What I'm Working On
+- 🧠 Building a long-term **AI-first Operating System / AI Computing Platform**
+- 📚 Learning Python, DSA, SQL, Git/GitHub, ML, Deep Learning, Generative AI, Prompt Engineering, Computer Vision, Robotics fundamentals
+- 🎯 Open to internships, AI projects, hackathons, open source & research opportunities
 
-</div>
+### 🛠️ Tech Stack
 
-<br>
 
-## 👀 Watching...
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/eyes.gif" width="260" />
 
-<sub>👆 real blinking gif — self-hosted (instructions at the bottom, GIF is the only element that can actually animate/blink)</sub>
 
-</div>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br>
 
-## 🌐 Connect with Me
 
-<div align="center">
 
-[
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://www.linkedin.com/in/sudhanshu-kumar-960319409)
-[
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
-](https://leetcode.com/u/sudh4nshukum4r)
-[
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-](https://www.youtube.com/@sudh4shuYadav)
-[
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-](https://www.instagram.com/sudhanshuy4dav)
-[
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-](sudhanshhhukumar098@gmail.com)
 
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-## 👋 About Me
-
-I'm Sudhanshu Kumar, an AI student currently pursuing my B.Tech in Artificial Intelligence at Zenith School of AI, KR Mangalam University. My interest in AI didn't start as a career decision — it started as genuine curiosity about how intelligent systems actually work under the hood: how raw data becomes a trained model, and how a trained model becomes a real, usable product. That curiosity has since evolved into a long-term mission that now shapes most of what I study and build: creating an **AI-first Operating System**, a computing platform where AI sits at the core of the system rather than being layered on top as an afterthought.
-
-Right now I'm deep in the foundation-building phase of that journey. I'm steadily strengthening my command over Python, Data Structures & Algorithms, SQL, and Git/GitHub — the tools every serious engineer needs regardless of specialization — while simultaneously going deeper into Machine Learning, Deep Learning, Generative AI, Prompt Engineering, and Computer Vision. I've learned that skipping fundamentals to chase "exciting" topics tends to backfire later, so I try to stay disciplined about building real understanding rather than surface-level familiarity.
-
-Outside of pure technical learning, I'm also actively trying to become part of the wider developer ecosystem — following communities, engaging with open source, and staying alert for hackathons and collaborative projects where I can apply what I'm learning in a real-world, high-pressure setting. I believe the fastest way to actually learn something is to try building it, break it, and fix it — not just read about it.
-
-<div align="center">
-
-```yaml
-# ──────────────────────────────
-#   PROFILE : SUDHANSHU KUMAR
-# ──────────────────────────────
-Name        : "Sudhanshu Kumar"
-Role        : "AI Student → Future AI Engineer"
-Location    : "Sohna, Gurgaon, India"
-Education   : "B.Tech in Artificial Intelligence"
-Institute   : "Zenith School of AI, KR Mangalam University"
-
-Mission     : >
-  Building an AI-first Operating System / AI Computing
-  Platform — a long-term (4-6 year) vision.
-
-Learning:
-  - Python
-  - Data Structures & Algorithms
-  - SQL
-  - Git & GitHub
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - Prompt Engineering
-  - Computer Vision
-  - Robotics Fundamentals
-
-OpenTo:
-  - Internships
-  - AI / ML Projects
-  - Hackathons
-  - Open Source Contributions
-  - Research Collaborations
-  - Developer Communities & Networking
-
-Status      : "actively learning, building, and shipping 🚀"
+### 🔥 LeetCode Stats
+<p align="center">
+  <img src="htt
