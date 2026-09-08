@@ -2,7 +2,7 @@
 <h3 align="center">AI Student | Building an AI-first Operating System 🚀</h3>
 
 <p align="center">
-  🎓 B.Tech in AI @ Zenith School of AI (KR Mangalam University) &nbsp;|&nbsp; 📍 Sohna,Gurgaon Bihar, India
+  🎓 B.Tech in AI @ Zenith School of AI (KR Mangalam University) &nbsp;|&nbsp; 📍 Sohna,Gurgaon,India
 </p>
 
 <p align="center">
