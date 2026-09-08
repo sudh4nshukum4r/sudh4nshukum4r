@@ -1,57 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=220&section=header&text=root%40kali%3A~%23%20access%20granted&fontSize=32&fontColor=00FF41&animation=fadeIn&fontAlignY=38" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=750&lines=root%40kali%3A~%23+whoami;Sudhanshu+Kumar;AI+Student+%7C+Ethical+Hacker+Mindset+%F0%9F%92%80;Building+an+AI-first+Operating+System+%F0%9F%9A%80;Scanning+target...+100%25+complete" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=200&section=header&text=Hi%20There,%20I'm%20Sudhanshu%20Kumar&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2fw9pjrTIhLha/giphy.gif" width="480" alt="hacker eyes watching" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Sudhanshu+Kumar+-+AI+Student;Building+an+AI-first+Operating+System+%F0%9F%9A%80;Learning+ML+%7C+DL+%7C+GenAI+%7C+CV;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=000000" />
-  <img src="https://img.shields.io/badge/OS-KALI%20LINUX-00FF41?style=for-the-badge&logo=kalilinux&logoColor=black&labelColor=000000" />
-  <img src="https://img.shields.io/badge/ACCESS-GRANTED-00FF41?style=for-the-badge&logo=hackaday&logoColor=black&labelColor=000000" />
-</p>
+📍 Sohna, Gurgaon, India &nbsp;•&nbsp; 🎓 B.Tech in AI, Zenith School of AI (KR Mangalam University)
 
-<p align="center">
-  📍 Sohna, Gurgaon, India &nbsp;|&nbsp; 🎓 B.Tech AI @ Zenith School of AI
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sudhanshu-kumar-960319409" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" />
-  </a>
-  <a href="https://leetcode.com/u/sudh4nshukum4r" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-00FF41?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" />
-  </a>
-  <a href="https://www.youtube.com/@sudh4shuYadav" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-00FF41?style=for-the-badge&logo=youtube&logoColor=black&labelColor=000000" />
-  </a>
-  <a href="https://www.instagram.com/sudhanshuy4dav" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00FF41&label=INTRUDERS+DETECTED" />
-</p>
+<br>
 
----
+## 🌐 Connect with Me
 
-### 💻 root@kali:~# nmap -sV sudhanshu_profile
+<div align="center">
 
-```bash
-Starting Nmap scan on SUDHANSHU-KUMAR...
-Host is up (0.0001s latency)
+[
 
-PORT      STATE   SERVICE
-22/tcp    open    ai-engineer
-80/tcp    open    problem-solver
-443/tcp   open    fast-learner
-3306/tcp  open    sql-database
-8080/tcp  open    genai-lab
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Scan complete: 5 skills open, 0 vulnerabilities found
+](https://www.linkedin.com/in/sudhanshu-kumar-960319409)
+[
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+](https://leetcode.com/u/sudh4nshukum4r)
+[
+
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+](https://www.youtube.com/@sudh4shuYadav)
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+](https://www.instagram.com/sudhanshuy4dav)
+
+</div>
+
+<br>
+
+## 👋 About Me
+
+```yaml
+Name        : Sudhanshu Kumar
+Role        : AI Student / Future AI Engineer
+Location    : Sohna, Gurgaon, India
+Education   : B.Tech in Artificial Intelligence — Zenith School of AI, KR Mangalam University
+Mission     : Building an AI-first Operating System / AI Computing Platform (long-term project)
+Learning    : Python | DSA | SQL | Git/GitHub | Machine Learning | Deep Learning
+              Generative AI | Prompt Engineering | Computer Vision | Robotics Fundamentals
+Open To     : Internships, AI Projects, Hackathons, Open Source, Research Collaborations
+Currently   : Sharpening foundations before scaling into full AI systems work
