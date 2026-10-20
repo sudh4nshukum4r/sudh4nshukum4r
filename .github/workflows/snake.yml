@@ -14,11 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate multicolour snake
         uses: Platane/snk@v3
         with:
           github_user_name: sudh4nshukum4r
-          outputs: dist/contribution-snake.svg
+          outputs: |
+            dist/contribution-snake.svg?color_snake=#00D9FF&color_dots=#161B22,#FF595E,#FFCA3A,#8AC926,#1982C4
 
       - name: Publish snake
         uses: peaceiris/actions-gh-pages@v4
