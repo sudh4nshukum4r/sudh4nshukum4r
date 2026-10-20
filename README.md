@@ -1,39 +1,30 @@
-## Live Project Tracker
 
-<!-- PROJECT_TRACKER:START -->
-## Live Project Tracker
+name: Generate Contribution Snake
 
-| Project | Description | Last Updated |
-|---|---|---|
-| [BASIC-TO-ADV-PROJECT-OF-HTML](https://github.com/sudh4nshukum4r/BASIC-TO-ADV-PROJECT-OF-HTML) | Learning and development project | 2026-10-18 |
-| [FULL-PYTHON-LEC](https://github.com/sudh4nshukum4r/FULL-PYTHON-LEC) | A complete Python learning journey covering concepts, practice, problems, and projects from basics to advanced. | 2026-10-02 |
-| [SIGMA-FSD](https://github.com/sudh4nshukum4r/SIGMA-FSD) | Learning and development project | 2026-09-27 |
-| [python-assignment](https://github.com/sudh4nshukum4r/python-assignment) | My first Python assignment project | 2026-09-24 |
-| [First-portfolio-website](https://github.com/sudh4nshukum4r/First-portfolio-website) | Learning and development project | 2026-09-24 |
-| [WEB-DEV-](https://github.com/sudh4nshukum4r/WEB-DEV-) | Learning and development project | 2026-09-11 |
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
 
-<!-- PROJECT_TRACKER:END -->
+permissions:
+  contents: write
 
-## Contribution Snake
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/sudh4nshukum4r/sudh4nshukum4r/output/contribution-snake.svg)
+    steps:
+      - name: Generate multicolor snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: sudh4nshukum4r
+          outputs: |
+            dist/contribution-snake.svg?color_snake=%2300D9FF&color_dots=%23161B22,%23FF595E,%23FFCA3A,%238AC926,%231982C4
 
-
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sudh4nshukum4r&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudh4nshukum4r&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
-
+      - name: Publish snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
