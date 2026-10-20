@@ -13,3 +13,9 @@
 | [WEB-DEV-](https://github.com/sudh4nshukum4r/WEB-DEV-) | Learning and development project | 2026-09-11 |
 
 <!-- PROJECT_TRACKER:END -->
+
+## Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sudh4nshukum4r/sudh4nshukum4r/output/contribution-snake.svg)
+
+
