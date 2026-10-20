@@ -1,189 +1,123 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,50:FFA116,100:E4405F&height=200&section=header&text=Hi%20There,%20I'm%20Sudhanshu%20Kumar&fontSize=32&fontColor=ffffff&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2E86DE&center=true&vCenter=true&width=650&lines=AI+Student+%7C+Future+AI+Engineer;Building+an+AI-first+Operating+System+%F0%9F%9A%80;B.Tech+AI+%40+Zenith+School+of+AI;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
-
-📍 Sohna, Gurgaon, India &nbsp;•&nbsp; 🎓 B.Tech in AI + Mini-MBA, Zenith School of AI (KR Mangalam University)
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2E86DE&label=PROFILE+VIEWS" />
-
-</div>
-
-<br>
-
-## 🌐 Connect with Me
 
 <div align="center">
 
-[
+# SUDHANSHU KUMAR
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+### B.Tech AI Student · Aspiring AI Engineer · Developer
 
-](https://www.linkedin.com/in/sudhanshu-kumar-960319409)
-[
+**Learning by building. Growing through experimentation.**
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+<a href="https://github.com/sudh4nshukum4r">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sudhanshu-kumar-960319409">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/sudh4nshukum4r">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-](https://leetcode.com/u/sudh4nshukum4r)
-[
-
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
-](https://www.youtube.com/@sudh4shuYadav)
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-gradient?style=for-the-badge&logo=instagram&logoColor=white&color=E1306C)
-
-](https://www.instagram.com/sudhanshuy4dav)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header" width="100%" alt="Blue header"/>
 
 </div>
 
-<br>
+## About Me
 
-## 👀 Watching...
+I'm Sudhanshu Kumar, a B.Tech student specializing in Artificial Intelligence at Zenith School of AI, K.R. Mangalam University.
+
+I'm building my foundation in programming, mathematics, web development, and AI through coursework, hands-on practice, and personal projects.
+
+My long-term ambition is to build intelligent software products and explore how AI can become a core part of future computing platforms.
+
+- Currently learning Python, web development, and AI fundamentals
+- Practicing problem-solving and Git/GitHub workflows
+- Exploring machine learning, generative AI, and software engineering
+- Interested in product development, open source, and entrepreneurship
+- Focused on turning ideas into working projects, one step at a time
+
+## Tech Stack
+
+### Currently Practicing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=light" alt="Python, HTML, CSS, Git, GitHub and VS Code"/>
+</p>
+
+### Exploring Next
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,cpp,linux,sql,pytorch&theme=light" alt="JavaScript, C++, Linux, SQL and PyTorch"/>
+</p>
+
+*These icons represent my learning interests, not a claim of expert-level proficiency.*
+
+## Featured Projects
+
+### 01 — SIGMA-FSD
+
+Frontend development practice and web fundamentals.
+
+**Focus:** HTML, page structure, and frontend exercises.
+
+[Explore Repository →](https://github.com/sudh4nshukum4r/SIGMA-FSD)
+
+### 02 — FULL-PYTHON-LEC
+
+A learning repository for Python programming and coding practice.
+
+**Focus:** Programming fundamentals, examples, and exercises.
+
+[Explore Repository →](https://github.com/sudh4nshukum4r/FULL-PYTHON-LEC)
+
+### 03 — BASIC-TO-ADV-PROJECT-OF-HTML
+
+A collection of HTML practice tasks and web development exercises.
+
+**Focus:** HTML elements, forms, links, tables, and page structure.
+
+[Explore Repository →](https://github.com/sudh4nshukum4r/BASIC-TO-ADV-PROJECT-OF-HTML)
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/main/assets/eyes.gif" width="240" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudh4nshukum4r&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="100%" alt="GitHub statistics"/>
+
+<img src="https://streak-stats.demolab.com?user=sudh4nshukum4r&theme=transparent&hide_border=true" width="100%" alt="GitHub contribution streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudh4nshukum4r&layout=compact&hide_border=true&theme=transparent" width="100%" alt="Most used programming languages"/>
 
 </div>
 
-<br>
+*Statistics are generated by third-party services and may take time to update.*
 
-## 👋 About Me
+## Current Roadmap
 
-I'm Sudhanshu Kumar, pursuing a B.Tech in Artificial Intelligence with an embedded Mini-MBA at Zenith School of AI (in partnership with KR Mangalam University) — India's first AI-native undergraduate school. The program is built around continuous building, deployment, and real-world decision-making rather than static theory, with hands-on projects, industry externships, and internships woven in from year one. That philosophy lines up exactly with how I want to learn: by building real things, not just reading about them.
+- [x] Start my B.Tech journey in Artificial Intelligence
+- [x] Create repositories for web development and Python practice
+- [ ] Strengthen Python and problem-solving fundamentals
+- [ ] Build and publish a complete web development project
+- [ ] Develop my first practical AI application
+- [ ] Learn machine learning through hands-on experiments
+- [ ] Contribute to open-source projects
+- [ ] Build useful software products and explore entrepreneurship
 
-My long-term mission is to build an **AI-first Operating System** — a computing platform where AI is the foundation, not a bolted-on feature. I'm currently in the foundation-building phase: strengthening Python, DSA, SQL, and Git/GitHub while going deep into Machine Learning, Deep Learning, Generative AI, Prompt Engineering, and Computer Vision — alongside the business and product thinking the Mini-MBA track brings in.
+## Let's Connect
 
-- 🔭 **Currently working on:** Foundations for a long-term AI-first Operating System project
-- 🌱 **Currently learning:** ML, DL, GenAI, Prompt Engineering, Computer Vision, System/Low-Level Design
-- 🎯 **Long-term goal:** Build a working AI Computing Platform over the next several years
-- 🤝 **Open to:** Internships, AI/ML projects, hackathons, open source, research collaborations
-- 💬 **Ask me about:** Python, ML/DL fundamentals, prompt engineering, AI project ideas
-
-<br>
-
-## 🧠 Skills & Languages
+I'm interested in learning from developers, collaborating on beginner-friendly projects, and connecting with people working in AI and software development.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=sql,tensorflow,pytorch,opencv,anaconda&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=kali,bash,vim,latex,notion&theme=dark" />
+<a href="https://www.linkedin.com/in/sudhanshu-kumar-960319409">LinkedIn</a> ·
+<a href="https://github.com/sudh4nshukum4r">GitHub</a> ·
+<a href="https://leetcode.com/u/sudh4nshukum4r">LeetCode</a> ·
+<a href="https://www.youtube.com/@sudh4shuYadav">YouTube</a> ·
+<a href="https://www.instagram.com/sudhanshuy4dav">Instagram</a>
+
+<br/><br/>
+
+**Build consistently. Learn deeply. Ship useful things.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=90&section=footer" width="100%" alt="Blue footer"/>
 
 </div>
-
-<br>
-
-## 📚 Currently Learning (Zenith Curriculum + Self-Study)
-
-<div align="center">
-
-
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
-
-
-
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFA116?style=for-the-badge)
-
-
-
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF0000?style=for-the-badge)
-
-
-
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-E1306C?style=for-the-badge)
-
-
-
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge)
-
-
-
-
-![System Design](https://img.shields.io/badge/System%20%2F%20Low--Level%20Design-FFA116?style=for-the-badge)
-
-
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=0A66C2&icon_color=FFA116&text_color=333333" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=FFFFFF&stroke=0A66C2&ring=FFA116&fire=FF0000&currStreakLabel=E1306C" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&title_color=0A66C2" width="50%" />
-
-</div>
-
-<br>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true&color=0A66C2&line=FFA116&point=E1306C" />
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&row=1&column=7" />
-
-</div>
-
-<br>
-
-## 🧩 LeetCode Progress
-
-<div align="center">
-
-<img src="https://leetcode-stats-eddie4x4.vercel.app/api?username=sudh4nshukum4r&theme=light" />
-
-</div>
-
-<br>
-
-## 🎯 Roadmap
-
-- [x] Started B.Tech AI + Mini-MBA at Zenith School of AI
-- [x] Built foundations in Python, DSA, SQL, Git/GitHub
-- [ ] Complete ML & Deep Learning specialization
-- [ ] Ship first Generative AI project
-- [ ] Complete first industry externship (Zenith model)
-- [ ] Land first AI/ML internship
-- [ ] Begin AI-first Operating System architecture work
-
-<br>
-
-<div align="center">
-
-## 📫 Let's Connect
-
-Always open to AI projects, internships, and collaborations. Reach out on any platform above.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FFA116,100:0A66C2&height=100&section=footer" />
-
-</div>
-
-
-
